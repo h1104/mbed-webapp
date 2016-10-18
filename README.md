@@ -1,5 +1,5 @@
-# mbed Device Connector Node.js Quickstart
-
+# mbed Device Connector Node.js Quickstart for 
+# modified by joseph at www.ittraining.com.tw
 Example Node.js express app that talks to the mbed Device Connector.
 
 ## Getting Started
